@@ -1,5 +1,5 @@
 # Proyecto de Detección de Objetos con YOLO Simplificado
-Video de referencia: [Explicación en YouTube]([https://www.youtube.com/watch?v=o7dZM_UrRQU](https://www.youtube.com/watch?v=lPOUVqm7vFc&ab_channel=JUANSEBASTIANFAJARDOZARTA)).
+Video de referencia: ([Explicación en YouTube](https://www.youtube.com/watch?v=lPOUVqm7vFc&ab_channel=JUANSEBASTIANFAJARDOZARTA)).
 
 
 ## Introducción
@@ -57,5 +57,5 @@ Se continuará trabajando en el ajuste del modelo y en la implementación de té
 
 **Referencias:**
 - Conjunto de datos: *traffic-detection-project* de Kaggle ([Enlace al dataset](https://www.kaggle.com/yusufberksardoan/traffic-detection-project)).
-- Video de referencia: [Explicación en YouTube]([https://www.youtube.com/watch?v=o7dZM_UrRQU](https://www.youtube.com/watch?v=lPOUVqm7vFc&ab_channel=JUANSEBASTIANFAJARDOZARTA)).
+- Video de referencia: ([Explicación en YouTube](https://www.youtube.com/watch?v=lPOUVqm7vFc&ab_channel=JUANSEBASTIANFAJARDOZARTA)).
 
