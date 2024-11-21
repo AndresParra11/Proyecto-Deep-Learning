@@ -1,4 +1,6 @@
 # Proyecto de Detección de Objetos con YOLO Simplificado
+Video de referencia: [Explicación en YouTube](https://www.youtube.com/watch?v=o7dZM_UrRQU).
+
 
 ## Introducción
 
